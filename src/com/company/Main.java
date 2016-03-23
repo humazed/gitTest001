@@ -26,6 +26,10 @@ public class Main {
 
 
         }
+
+    //make some things before merge into patch
+
+}
     }
 
     static void doSomething(int n) {
