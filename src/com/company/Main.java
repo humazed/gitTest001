@@ -16,10 +16,11 @@ public class Main {
 
         // added from github
 
-        for (int i = 0; i < 5; ) {
+        int i = 0;
+        while (true) {
 
-    //
-    //for beta
+            //
+            //for beta
 
             //master
             //in master
