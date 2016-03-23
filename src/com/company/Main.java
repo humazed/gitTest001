@@ -1,7 +1,8 @@
 package com.company;
 
 public class Main {
-static boolean a = true ;
+    static boolean a = true;
+
     public static void main(String[] args) {
         // write your code here
 
@@ -13,20 +14,21 @@ static boolean a = true ;
 
         //code the make problems
 
-// added from github
+        // added from github
 
-for (int i=0; i<5;){
+        for (int i = 0; i < 5; ) {
 
     //
     //for beta
 
-    //master
-    //in master
+            //master
+            //in master
 
 
-}
+        }
     }
 
-    static void doSomething(int n){
+    static void doSomething(int n) {
 
-}}
+    }
+}
